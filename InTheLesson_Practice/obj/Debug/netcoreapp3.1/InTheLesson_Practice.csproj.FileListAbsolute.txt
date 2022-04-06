@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.exe
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.deps.json
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.runtimeconfig.json
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.dll
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\InTheLesson_Practice.pdb
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.AssemblyInfo.cs
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.dll
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.pdb
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.genruntimeconfig.cache
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\InTheLesson_Practice\InTheLesson_Practice\obj\Debug\netcoreapp3.1\InTheLesson_Practice.csproj.CopyComplete
